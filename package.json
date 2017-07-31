@@ -1,0 +1,15 @@
+{
+  "name": "clean-boilerplate-with-node-webpack-eslint-babel",
+  "version": "0.0.1",
+  "description": "Contains a clean boilerplate with configuration files for vscode, node, webpack, eslint and babel. Later vesion will add configuration for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clean-boilerplate-vscode-node-webpack-es6-babel-eslint.git"
+  },
+  "author": "Marc Hoogvliet",
+  "license": "MIT"
+}
